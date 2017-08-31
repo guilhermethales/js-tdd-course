@@ -1,6 +1,6 @@
 
 const a = () => {
-  return 10
+  return 10;
 };
 
 a();
